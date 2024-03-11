@@ -1,0 +1,24 @@
+{
+  "AutoSteamSaleEvent": true,
+  "BotBehaviour": 32,
+  "CustomGamePlayedWhileFarming": "Делаю деньги для хозяина",
+  "CustomGamePlayedWhileIdle": "Делаю деньги для хозяина",
+  "Enabled": true,
+  "FarmingOrders": [
+    9
+  ],
+  "GamesPlayedWhileIdle": [
+    570,
+    730
+  ],
+  "HoursUntilCardDrops": 0,
+  "Paused": true,
+  "RedeemingPreferences": 7,
+  "SteamLogin": "login",
+  "SteamPassword": "password",
+  "SteamTradeToken": "YOUR_TOKEN",
+  "SteamUserPermissions": {
+    "YOYR_STEAM_ID64": 3
+  },
+  "TradingPreferences": 1
+}

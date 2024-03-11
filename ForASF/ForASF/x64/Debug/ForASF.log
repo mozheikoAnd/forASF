@@ -1,0 +1,3 @@
+﻿  ForASF.cpp
+E:\project C++\ForASF\ForASF\ForASF.cpp(37,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ForASF.vcxproj -> E:\project C++\ForASF\x64\Debug\ForASF.exe
