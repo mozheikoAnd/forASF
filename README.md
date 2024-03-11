@@ -10,6 +10,6 @@ akk_2:ytrewq
 
 IT IS MANDATORY TO USE ":" THERE SHOULD BE NO SPACES BEFORE THE LOGIN AND AFTER THE PASSWORD
 
-3. To the file setting.txt enter the configuration of the bot. check that your steam Trade Token is there
+3. To the file setting.txt enter the configuration of the bot. check that your steam TradeToken and SteamUserPermissions are there
 4. Run ForASF.exe
 5. Copy all files from the output folder ready.json files in the config folder in the ASF folder
